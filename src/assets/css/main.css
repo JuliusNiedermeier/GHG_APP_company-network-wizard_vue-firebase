@@ -1,0 +1,49 @@
+:root {
+  --color-accent: blue;
+  --duration-short: 125ms;
+  --duration-normal: 250ms;
+  --duration-long: 375ms;
+}
+
+* {
+  font-family: "Space Grotesk";
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.text-accent-on-hover {
+  transition: all var(--duration-short) ease;
+}
+
+.text-accent-on-hover:hover {
+  color: var(--color-accent);
+}
+
+input,
+button {
+  outline: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+}
+
+button {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.svg-inline--fa {
+  width: 0.8rem !important;
+}

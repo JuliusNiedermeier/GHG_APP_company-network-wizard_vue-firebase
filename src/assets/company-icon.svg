@@ -1,0 +1,32 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="222"
+    height="171"
+    viewBox="0 0 222 171"
+  >
+    <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-72 -86.985)">
+      <rect
+        id="Rechteck_5"
+        data-name="Rechteck 5"
+        width="74"
+        height="74"
+        transform="translate(72 183.985)"
+        fill="rgba(0,0,0,0.66)"
+      />
+      <rect
+        id="Rechteck_6"
+        data-name="Rechteck 6"
+        width="74"
+        height="171"
+        transform="translate(146 86.985)"
+      />
+      <rect
+        id="Rechteck_7"
+        data-name="Rechteck 7"
+        width="74"
+        height="131"
+        transform="translate(220 126.985)"
+        fill="rgba(0,0,0,0.33)"
+      />
+    </g>
+  </svg>
